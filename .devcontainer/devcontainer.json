@@ -10,8 +10,6 @@
     "settings": {
         "ruby.useLanguageServer": true // Required by TestDriven
     },
-  
-    "postCreateCommand": "bundler install",
 
     "dockerFile": "Dockerfile"
   }
