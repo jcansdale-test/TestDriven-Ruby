@@ -11,6 +11,6 @@
         "ruby.useLanguageServer": true // Required by TestDriven
     },
 
-    "dockerFile": "Dockerfile"
+    "dockerFile": "../Dockerfile"
   }
   
