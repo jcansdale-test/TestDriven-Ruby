@@ -1,3 +1,3 @@
 FROM ruby
-ADD ../Gemfile .
+ADD Gemfile .
 RUN bundler install
